@@ -46,7 +46,7 @@ font-weight: 800; */
     content:"";
     position:absolute;
     inset:0;
-    background:url("images/danger2.jpg")
+    background:url("images/danger3.png")
         center center/cover no-repeat;
     animation: breathe 8s ease-in-out infinite;
     z-index:-2;
